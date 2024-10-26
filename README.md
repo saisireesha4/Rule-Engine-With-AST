@@ -37,5 +37,5 @@ This project implements a rule engine using an Abstract Syntax Tree (AST) for pa
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/rule-engine-ast.git
-   cd rule-engine-ast
+   git clone https://github.com/saisireesha4/Rule-Engine-With-AST.git
+   cd Rule-Engine-With-AST
